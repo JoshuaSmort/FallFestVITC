@@ -47,4 +47,6 @@ This folder contains PowerPoint presentations that were used during the **Qiskit
 
 ---
 
-Each presentation provides a comprehensive walkthrough of the respective topics, including practical exercises and theoretical insights.
+### Credits
+
+These presentations were prepared by [Keshika Swetha](https://www.linkedin.com/in/keshika-swetha-384096262/).

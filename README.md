@@ -1,1 +1,2 @@
-# FallFest
+#Qiskit Fall Fest 2024 - VIT Chennai
+Welcome to the official GitHub repository for the Qiskit Fall Fest 2024 at Vellore Institute of Technology, Chennai! This event brings together quantum computing enthusiasts for a series of workshops, a hackathon, and an exciting meme competition, all centered around IBM's open-source quantum development framework, Qiskit. Participants will have the chance to learn, innovate, and compete in an engaging environment designed to explore the potential of quantum technologies. Stay tuned for project submissions, event updates, and resources to help you dive into the world of quantum computing!
